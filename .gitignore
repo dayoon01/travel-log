@@ -1,0 +1,5 @@
+# 원본 사진·영상은 올리지 않는다 (EXIF에 정확한 촬영 위치·기기 정보가 들어 있음)
+trips/*/photos/
+# 완성본은 gh-pages 브랜치로 따로 올린다 (tools/deploy.py)
+dist/
+__pycache__/

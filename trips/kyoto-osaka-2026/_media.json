@@ -1,0 +1,372 @@
+[
+ {
+  "file": "IMG_0001.jpg",
+  "kind": "photo",
+  "time": "2026-04-03T09:42",
+  "lat": 34.432208,
+  "lng": 135.230753,
+  "w": 1600,
+  "h": 1067,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0002.jpg",
+  "kind": "photo",
+  "time": "2026-04-03T10:15",
+  "lat": 34.432458,
+  "lng": 135.230672,
+  "w": 1600,
+  "h": 1067,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0003.jpg",
+  "kind": "photo",
+  "time": "2026-04-03T11:48",
+  "lat": 34.985494,
+  "lng": 135.759222,
+  "w": 1600,
+  "h": 1067,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0004.jpg",
+  "kind": "photo",
+  "time": "2026-04-03T11:55",
+  "lat": 34.985647,
+  "lng": 135.758792,
+  "w": 1600,
+  "h": 1067,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0005.jpg",
+  "kind": "photo",
+  "time": "2026-04-03T12:20",
+  "lat": 34.985689,
+  "lng": 135.758861,
+  "w": 1067,
+  "h": 1600,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0006.jpg",
+  "kind": "photo",
+  "time": "2026-04-03T13:31",
+  "lat": 34.967242,
+  "lng": 135.772811,
+  "w": 1600,
+  "h": 1067,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0007.jpg",
+  "kind": "photo",
+  "time": "2026-04-03T13:52",
+  "lat": 34.967292,
+  "lng": 135.772256,
+  "w": 1067,
+  "h": 1600,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0008.jpg",
+  "kind": "photo",
+  "time": "2026-04-03T14:30",
+  "lat": 34.967136,
+  "lng": 135.772967,
+  "w": 1600,
+  "h": 1067,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0009.jpg",
+  "kind": "photo",
+  "time": "2026-04-03T14:48",
+  "lat": 34.967572,
+  "lng": 135.772503,
+  "w": 1600,
+  "h": 1067,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0010.jpg",
+  "kind": "photo",
+  "time": "2026-04-03T16:18",
+  "lat": 34.994519,
+  "lng": 135.785353,
+  "w": 1067,
+  "h": 1600,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0011.jpg",
+  "kind": "photo",
+  "time": "2026-04-03T16:35",
+  "lat": 34.995497,
+  "lng": 135.785219,
+  "w": 1600,
+  "h": 1067,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0012.jpg",
+  "kind": "photo",
+  "time": "2026-04-03T16:50",
+  "lat": 34.994756,
+  "lng": 135.785692,
+  "w": 1600,
+  "h": 1067,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0013.jpg",
+  "kind": "photo",
+  "time": "2026-04-03T17:12",
+  "lat": 34.996678,
+  "lng": 135.781297,
+  "w": 1600,
+  "h": 1067,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0014.jpg",
+  "kind": "photo",
+  "time": "2026-04-03T17:25",
+  "lat": 34.996642,
+  "lng": 135.780708,
+  "w": 1600,
+  "h": 1067,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0015.jpg",
+  "kind": "photo",
+  "time": "2026-04-03T17:40",
+  "lat": 34.996267,
+  "lng": 135.780939,
+  "w": 1600,
+  "h": 1067,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0016.jpg",
+  "kind": "photo",
+  "time": "2026-04-03T19:02",
+  "lat": 35.00335,
+  "lng": 135.775442,
+  "w": 1600,
+  "h": 1067,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0017.jpg",
+  "kind": "photo",
+  "time": "2026-04-03T19:30",
+  "lat": 35.004131,
+  "lng": 135.775219,
+  "w": 1600,
+  "h": 1067,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0018.jpg",
+  "kind": "photo",
+  "time": "2026-04-04T08:08",
+  "lat": 35.017042,
+  "lng": 135.671481,
+  "w": 1600,
+  "h": 1067,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0019.jpg",
+  "kind": "photo",
+  "time": "2026-04-04T08:20",
+  "lat": 35.016533,
+  "lng": 135.671578,
+  "w": 1067,
+  "h": 1600,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0020.jpg",
+  "kind": "photo",
+  "time": "2026-04-04T08:41",
+  "lat": 35.016697,
+  "lng": 135.671078,
+  "w": 1600,
+  "h": 1067,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0021.jpg",
+  "kind": "photo",
+  "time": "2026-04-04T09:33",
+  "lat": 35.012769,
+  "lng": 135.678194,
+  "w": 1067,
+  "h": 1600,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0022.jpg",
+  "kind": "photo",
+  "time": "2026-04-04T09:50",
+  "lat": 35.012722,
+  "lng": 135.67705,
+  "w": 1600,
+  "h": 1067,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0023.jpg",
+  "kind": "photo",
+  "time": "2026-04-04T12:41",
+  "lat": 35.039122,
+  "lng": 135.729028,
+  "w": 1600,
+  "h": 1067,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0024.jpg",
+  "kind": "photo",
+  "time": "2026-04-04T12:55",
+  "lat": 35.039722,
+  "lng": 135.728806,
+  "w": 1600,
+  "h": 1067,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0025.jpg",
+  "kind": "photo",
+  "time": "2026-04-04T15:02",
+  "lat": 35.004872,
+  "lng": 135.765539,
+  "w": 1600,
+  "h": 1067,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0026.jpg",
+  "kind": "photo",
+  "time": "2026-04-04T15:20",
+  "lat": 35.005461,
+  "lng": 135.765414,
+  "w": 1600,
+  "h": 1067,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0027.jpg",
+  "kind": "photo",
+  "time": "2026-04-04T15:34",
+  "lat": 35.005019,
+  "lng": 135.764403,
+  "w": 1067,
+  "h": 1600,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0028.jpg",
+  "kind": "photo",
+  "time": "2026-04-04T18:28",
+  "lat": 35.008756,
+  "lng": 135.772019,
+  "w": 1600,
+  "h": 1067,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0029.jpg",
+  "kind": "photo",
+  "time": "2026-04-04T18:45",
+  "lat": 35.008939,
+  "lng": 135.771867,
+  "w": 1067,
+  "h": 1600,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0030.jpg",
+  "kind": "photo",
+  "time": "2026-04-05T10:03",
+  "lat": 34.686806,
+  "lng": 135.525903,
+  "w": 1067,
+  "h": 1600,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0031.jpg",
+  "kind": "photo",
+  "time": "2026-04-05T10:30",
+  "lat": 34.687069,
+  "lng": 135.526861,
+  "w": 1600,
+  "h": 1067,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0032.jpg",
+  "kind": "photo",
+  "time": "2026-04-05T10:52",
+  "lat": 34.686864,
+  "lng": 135.525842,
+  "w": 1600,
+  "h": 1067,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0033.jpg",
+  "kind": "photo",
+  "time": "2026-04-05T12:31",
+  "lat": 34.665039,
+  "lng": 135.506958,
+  "w": 1600,
+  "h": 1067,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0034.jpg",
+  "kind": "photo",
+  "time": "2026-04-05T12:45",
+  "lat": 34.666044,
+  "lng": 135.506561,
+  "w": 1600,
+  "h": 1067,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0035.jpg",
+  "kind": "photo",
+  "time": "2026-04-05T19:28",
+  "lat": 34.668478,
+  "lng": 135.500847,
+  "w": 1600,
+  "h": 1067,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0036.jpg",
+  "kind": "photo",
+  "time": "2026-04-05T19:40",
+  "lat": 34.668653,
+  "lng": 135.501119,
+  "w": 1600,
+  "h": 1067,
+  "timeFromExif": true
+ },
+ {
+  "file": "IMG_0037.jpg",
+  "kind": "photo",
+  "time": "2026-04-05T20:05",
+  "lat": 34.669206,
+  "lng": 135.501272,
+  "w": 1067,
+  "h": 1600,
+  "timeFromExif": true
+ }
+]

@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>여행 기록</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@700&family=IBM+Plex+Sans+KR:wght@400;500&family=IBM+Plex+Mono&display=swap">
+<style>
+:root{--paper:#f7f6f3;--surface:#fff;--ink:#1b2129;--muted:#5f6772;--line:#e3e1dc}
+@media (prefers-color-scheme: dark){:root{--paper:#121519;--surface:#1a1f25;--ink:#e8e6e1;--muted:#9aa2ac;--line:#2a3038;color-scheme:dark}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:"IBM Plex Sans KR","Malgun Gothic",sans-serif}
+.wrap{max-width:1080px;margin:0 auto;padding:56px 16px}
+h1{font-family:"Noto Serif KR",serif;font-size:44px;margin:0 0 8px}
+.sub{color:var(--muted);margin:0 0 40px}
+.list{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:20px}
+a.card{display:flex;flex-direction:column;text-decoration:none;color:inherit;background:var(--surface);border:1px solid var(--line);border-radius:12px;overflow:hidden;transition:transform .2s}
+a.card:hover{transform:translateY(-3px)}
+.card img{width:100%;aspect-ratio:16/10;object-fit:cover;display:block;background:var(--line)}
+.card div{padding:16px 18px 18px}
+.card h2{font-family:"Noto Serif KR",serif;font-size:22px;margin:0}
+.card p{margin:6px 0 0;font-family:"IBM Plex Mono",monospace;font-size:12.5px;color:var(--muted)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>여행 기록</h1>
+  <p class="sub">사진을 찍은 자리를 따라 다시 걷는 여행 이야기</p>
+  <div class="list" id="list"></div>
+</div>
+<script>
+const TRIPS = __DATA__;
+const list = document.getElementById('list');
+TRIPS.forEach(t => {
+  const a = document.createElement('a'); a.className = 'card'; a.href = t.slug + '/';
+  if (t.cover) { const im = document.createElement('img'); im.src = t.cover; im.alt = ''; im.loading = 'lazy'; a.append(im); }
+  const d = document.createElement('div'); const h = document.createElement('h2'); h.textContent = `${t.title} ${t.subtitle || ''}`;
+  const p = document.createElement('p'); p.textContent = `${t.date.replaceAll('-', '.')} · ${t.stops}곳 · 사진 ${t.photos}장 · ${t.km.toLocaleString('ko-KR')} km`;
+  d.append(h, p); a.append(d); list.append(a);
+});
+</script>
+</body>
+</html>
